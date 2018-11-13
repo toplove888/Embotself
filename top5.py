@@ -12,32 +12,32 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINETCR.LINE()
-cl.login(token="EtsR0J2WsC2dzTuorb0c./i/5rYKTg6f/CZ30PHlPRa.Bw+yva3mg3w/ANZu45tFhcPLSwoHrvSAeOQWHt9Lucc=")
+cl.login(token="EyDGZLTYUhc4XUssGjje.+uhkA6tc12F7Ci2dIAIhRG.TtXUwZrvfedhJOCkZh9DLBNM9ngbS07O/HZbV4KIjnA=")
 cl.loginResult()
 
 ki1 = LINETCR.LINE()
-ki1.login(token="EurN0Ir7QwukSygyCDT4.UXkUGbhYthk+IcKadVuera.GHFelTi4/7TBAW4SHViMfnoC5cgNmWBIuIYcH7xxkzI=")
+ki1.login(token="EyTkRWKdoatwO2srsaHf.YKpnfFUzt14eWjHlFbAt7W.+eTUfdmf4ZhcG3DCGW8i/Zfh4LAWvknm0jg8CLMsUb0=")
 ki1.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(token="EuxCwsPryyN1u26jHjS9.TU30JtbHYcOv7HeCei1nkq.3Mfx1nyMePHOHb1gjiGK3qJ1OQx1r4KcwhYOHOfUHls=")
+ki2.login(token="EyYZNR9zzvcqIZ6JxnR9.6vQnq3FwsylGTsD6FMhaAq.5aD+YC8zVqMEHQnaGUiWf1Em1GkwJRFd0iSXonzoB+A=")
 ki2.loginResult()
 
 ki3 = LINETCR.LINE()
-ki3.login(token="Euu1DqlzY59a0S6c0eu3.JGUBaKcRArxBFd2dL6arWW.6DP3Dde193jXnIgfzzf5jKEUVnyvEM16NpiTSVY5Cxo=")
+ki3.login(token="EyWVIZVDHUuVuQBFOoj4.RIRpki9LmUiXcQ9tbgzdPa.jYNJQHj34bR9cdqAto1UCZ/mr1zGFYuKLaS9+PahUJk=")
 ki3.loginResult()
 
 ki4 = LINETCR.LINE()
-ki4.login(token="Euge5PxkukV8pGaqljra.gp+vVf4LGObMfY+xX8FX6G.zYdjsZvnXRiTonwnmRnpmnLWVC7pjaNIVVGnK0vIamc=")
+ki4.login(token="EyYExSVOowEnfQgg56C5.9quiawDlNeq4bfyvIN1Knq.9HZBi7Lw2CVYb13DH2wl+E4jac+oCzut87cO8hYvJ90=")
 ki4.loginResult()
 
 ki5 = LINETCR.LINE()
-ki5.login(token="Euzhxw6j2ektQR073UHe.NjraORhwEuMuQtVlbNUn3G.zC6eOsYy5Vitw4msPTZmb+CQ3Ep4PyD6/cVAyEZrabc=")
+ki5.login(token="EyDjfcfsEqDQP47F8eQc.5712j+0Dim7FZzvUdpcHJa.qaxOh0238HCinLLPhIE+HIWVJ1JFnpQpBZD48Mu7PvE=")
 ki5.loginResult()
 
-ki6 = LINETCR.LINE()
-ki6.login(token="Eu5ygnsLJqpLmurz9cB4.BAS+pB2FxftJaFu5EGMgDa.fIBpj9/2nRNrapmuiQJMjKVbQguUf9w5bfQZGK6G24c=")
-ki6.loginResult()
+#ki6 = LINETCR.LINE()
+#ki6.login(token="Eu5ygnsLJqpLmurz9cB4.BAS+pB2FxftJaFu5EGMgDa.fIBpj9/2nRNrapmuiQJMjKVbQguUf9w5bfQZGK6G24c=")
+#ki6.loginResult()
 
 #ki7 = LINETCR.LINE()
 #ki7.login(token="")
@@ -303,13 +303,13 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 mid = cl.getProfile().mid
-Bots = ["uf88fb947292d1ba17e733df4a612e9ac",mid]
-self = ["uf88fb947292d1ba17e733df4a612e9ac",mid]
-admin = "uf88fb947292d1ba17e733df4a612e9ac"
-admsa = "uf88fb947292d1ba17e733df4a612e9ac"
-owner = "uf88fb947292d1ba17e733df4a612e9ac"
-adminMID = "uf88fb947292d1ba17e733df4a612e9ac"
-Creator="uf88fb947292d1ba17e733df4a612e9ac"
+Bots = ["ufd41ca6ba4c2d767fb708d8389a887ae",mid]
+self = ["ufd41ca6ba4c2d767fb708d8389a887ae",mid]
+admin = "ufd41ca6ba4c2d767fb708d8389a887ae"
+admsa = "ufd41ca6ba4c2d767fb708d8389a887ae"
+owner = "ufd41ca6ba4c2d767fb708d8389a887ae"
+adminMID = "ufd41ca6ba4c2d767fb708d8389a887ae"
+Creator="ufd41ca6ba4c2d767fb708d8389a887ae"
 wait = {
     "alwayRead":False,
     "detectMention":True,    
